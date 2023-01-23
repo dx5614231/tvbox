@@ -164,11 +164,11 @@
       "key": "csp_Alist2",
       "name": "🐰小丫盘",
       "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
+      "api": "./js/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://101.34.67.237/txt/json/alist.json"
+      "ext": "./json/alist.json"
     },
     {
       "key": "AList",
@@ -176,27 +176,16 @@
       "type": "3",
       "api": "csp_AList",
       "searchable": "1",
-      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/alist.json"
+      "ext": "./json/alist2.json"
     },
     {
       "key": "Kunyu",
-      "name": "🐻‍❄️七七",
+      "name": "🐻酷云‍七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "饭团",
-      "name": "👹饭团",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "playerType": "2",
-      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
     },
     {
       "key": "mangguo",
@@ -236,35 +225,6 @@
       "filterable": 1
     },
     {
-      "key": "兔兔",
-      "name": "🐇追兔",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json"
-    },
-    {
-      "key": "csp_Xinsj",
-      "name": "🐡视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "qiyou",
-      "name": "️🌻奇优",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json"
-    },
-    {
       "key": "BULEI1",
       "name": "🌽布蕾",
       "type": 3,
@@ -282,7 +242,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "playerType": "2",
-      "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
+      "ext": "./json/renren.json"
     },
     {
       "key": "Kuaikan",
@@ -320,7 +280,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "playerType": "1",
-      "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+      "ext": "./json/4kvm.json"
     },
     {
       "key": "Zhaozy",
