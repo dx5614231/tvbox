@@ -199,12 +199,13 @@
     },
     {
       "key": "BULEI1",
-      "name": "⚡布雷蓝光影院",
+      "name": "⚡布雷",
       "type": 3,
       "api": "csp_BuLei",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType":2
     },
     {
       "key": "Kuaikan",
@@ -283,16 +284,6 @@
       "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
-      "key": "csp_Yisou",
-      "name": "🆎易搜2",
-      "type": "3",
-      "api": "csp_Yisou",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "http://我不是.肥猫.love:63/token.php"
-    },
-    {
       "key": "AliPS",
       "name": "😻盘搜",
       "type": "3",
@@ -314,7 +305,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "📜纸条",
+      "name": "📜小纸条",
       "type": "3",
       "api": "csp_Paper",
       "searchable": "1",
