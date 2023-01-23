@@ -32,7 +32,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "SP360",
       "name": "💘360影视",
@@ -70,62 +69,13 @@
       "filterable": 1
     },
     {
-      "key": "csp_Dy1010",
-      "name": "🔟双十",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Voflix",
-      "name": "🌀Voflix",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "BuLei",
-      "name": "⚡布雷",
-      "type": 3,
-      "api": "BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Lezhu_",
-      "name": "🐷乐猪影视",
-      "api": "csp_Lezhu",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
       "key": "csp_Dy555",
-      "name": "5️⃣️555影视（SP）",
+      "name": "5️⃣️555影视（搜索专用）",
       "api": "csp_Dy555",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
-    },
-    {
-      "key": "csp_AList",
-      "name": "🅰AList网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json",
-      "jumpDetail": 0,
-      "reversePlay": 0,
-      "enable": 1
     },
     {
       "key": "AliPS",
@@ -138,17 +88,7 @@
       "filterable": 1,
       "ext": "./token.txt"
     },
-    {
-      "key": "Gitcafe",
-      "name": "📜小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
-    },
+
     {
       "key": "csp_Yisou",
       "name": "🆎易搜",
@@ -170,39 +110,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./token.txt"
-    },
-    {
-      "key": "FindZY",
-      "name": "🦊找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt",
-      "jar": "./jar/ts.jar"
-    },
-    {
-      "key": "csp_Gitcafe",
-      "name": "纸条（ts）",
-      "type": "3",
-      "api": "csp_Gitcafe",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "./token.txt",
-      "jar": "./jar/ts.jar"
-    },
-    {
-      "key": "csp_xBPQ_ 乐猪",
-      "name": "乐猪（xBPQ）",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"
     }
   ],
   "parses": [
@@ -429,7 +336,6 @@
       ]
     }
   ],
-
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
