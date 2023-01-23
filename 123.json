@@ -96,14 +96,19 @@
       "url": "https://bd.jx.cn/?url="
     },
     {
-      "name": "yparse",
+      "name": "综合/B站",
       "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "OKjx综合（qq/youku）",
       "type": 0,
       "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "yparse",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
     },
     {
       "name": "解析聚合",
