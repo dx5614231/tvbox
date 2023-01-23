@@ -24,15 +24,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_77",
-      "name": "👒酷云七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "SP360",
       "name": "💘360影视",
       "api": "csp_SP360",
@@ -69,6 +60,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_77",
+      "name": "👒酷云七七（不可用）",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Dy555",
       "name": "5️⃣️555影视（搜索专用）",
       "api": "csp_Dy555",
@@ -87,32 +87,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./token.txt"
-    },
-
-    {
-      "key": "csp_Yisou",
-      "name": "🆎易搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
-    },
-    {
-      "key": "csp_Upyunso",
-      "name": "☁️Up云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
     }
   ],
   "parses": [
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "综合",
+      "type": 1,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "OKjx综合（qq/youku）",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
     {
       "name": "解析聚合",
       "type": 3,
@@ -127,16 +119,6 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
-    },
-    {
-      "name": "GGTV快速",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="
-    },
-    {
-      "name": "OKjx综合",
-      "type": 0,
-      "url": "https://okjx.cc/?url="
     }
   ],
   "flags": [
