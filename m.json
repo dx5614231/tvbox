@@ -327,19 +327,14 @@
       "url": "Sequence"
     },
     {
-      "name": "1920",
-      "type": 1,
-      "url": "https://www.1920lgzy.top/json.php?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "name": "爱豆（qq）",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
     },
     {
-      "name": "jsonplayer",
+      "name": "冰豆（qq）",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://api.qianqi.net/vip/?url="
     },
     {
       "name": "ok解析",
@@ -382,11 +377,6 @@
       "name": "OKjx综合",
       "type": 0,
       "url": "http://jx.gbxy.net.cn/?url="
-    },
-    {
-      "name": "rx2",
-      "type": 1,
-      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     }
   ],
   "ijk": [
