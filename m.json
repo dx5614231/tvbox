@@ -166,6 +166,11 @@
   ],
   "parses": [
     {
+      "name": "爱豆（qq）",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
@@ -184,11 +189,6 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
-    },
-    {
-      "name": "爱豆（qq）",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url="
     },
     {
       "name": "冰豆（qq）",
