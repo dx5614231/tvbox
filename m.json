@@ -198,11 +198,10 @@
       "filterable": "1"
     },
     {
-      "key": "csp_BuLei",
+      "key": "BuLei",
       "name": "⚡布雷",
       "type": 3,
       "api": "csp_BuLei",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
