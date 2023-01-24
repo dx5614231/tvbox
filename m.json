@@ -25,6 +25,16 @@
       "filterable": 1
     },
     {
+      "key": "AppTT",
+      "name": "🆗图图",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "110c922de7d69804467fb83d3bb664b5"
+    },
+    {
       "key": "mangguo",
       "name": "🥭芒果",
       "type": 3,
@@ -34,14 +44,13 @@
       "filterable": 1
     },
     {
-      "key": "AppTT",
-      "name": "🆗图图",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "110c922de7d69804467fb83d3bb664b5"
+      "key": "SP360",
+      "name": "💘360影视",
+      "api": "csp_SP360",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
     },
     {
       "key": "LiteApple",
@@ -71,25 +80,6 @@
       "searchable": 1,
       "playerType": "1",
       "ext": "./json/4kvm.json"
-    },
-    {
-      "key": "SP360",
-      "name": "💘360影视",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
-      "key": "js豆瓣1",
-      "name": "🤖新豆瓣",
-      "type": 3,
-      "api": "./js/min/drpy.min.js",
-      "ext": "./js/drpy.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
     },
     {
       "key": "csp_Alist2",
