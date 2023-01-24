@@ -227,6 +227,16 @@
       "searchable": 1
     },
     {
+      "key": "js豆瓣1",
+      "name": "🤖新豆瓣",
+      "type": 3,
+      "api": "./min/drpy.min.js",
+      "ext": "./js/drpy.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "csp_Alist2",
       "name": "🐰小丫盘",
       "type": 3,
@@ -317,97 +327,6 @@
       "url": "Sequence"
     },
     {
-      "name": "Q1官解",
-      "type": 1,
-      "url": "https://parse.ikunfk.cc/parse/sign/20221230?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
-      "name": "懒懒2",
-      "type": 1,
-      "url": "http://lanlan.ckflv.cn/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua",
-          "1905"
-        ]
-      }
-    },
-    {
-      "name": "dy6g",
-      "type": 0,
-      "url": "https://vip.lianfaka.com/vip/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-          "Referer": "https://www.dy6g.com/"
-        }
-      }
-    },
-    {
-      "name": "布雷",
-      "type": 0,
-      "url": "https://bf.bulei.cc/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯"
-        ]
-      }
-    },
-    {
-      "name": "兰花解析",
-      "type": 0,
-      "url": "http://pandown.pro/app/ysmjx.php?url=",
-      "ext": {
-        "flag": [
-          "rx",
-          "ltnb",
-          "renrenmi",
-          "rongxing",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "youku",
-          "优酷",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "xigua",
-          "CL4K",
-          "西瓜"
-        ]
-      }
-    },
-    {
       "name": "1920",
       "type": 1,
       "url": "https://www.1920lgzy.top/json.php?url=",
@@ -418,97 +337,9 @@
       }
     },
     {
-      "name": "7080",
+      "name": "jsonplayer",
       "type": 0,
-      "url": "https://h5.freejson.xyz/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
-      "name": "诺迅",
-      "type": 0,
-      "url": "http://www.nxflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-    {
-      "name": "云解",
-      "type": 0,
-      "url": "https://yparse.jn1.cc/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-    {
-      "name": "MAO",
-      "type": 0,
-      "url": "https://www.mtosz.com/erzi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-    {
-      "name": "阿飞",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "ok解析",
@@ -551,33 +382,6 @@
       "name": "OKjx综合",
       "type": 0,
       "url": "http://jx.gbxy.net.cn/?url="
-    },
-    {
-      "name": "时光解析",
-      "type": 0,
-      "url": "https://v.shigys.com/addons/dp/player/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
     },
     {
       "name": "rx2",
