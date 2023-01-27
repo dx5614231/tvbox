@@ -160,6 +160,7 @@
     "csm3u8"
   ],
   "sites": [
+    {"key":"csp_xBPQ_神马影院","name":"神马影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/smyy.json"},
     {
       "key": "Kunyu",
       "name": "👒酷云‍七七",
@@ -324,16 +325,6 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
-    },
-    {
-      "name": "爱豆（qq）",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "冰豆（qq）",
-      "type": 0,
-      "url": "https://api.qianqi.net/vip/?url="
     },
     {
       "name": "Q1官解",
